@@ -11,8 +11,8 @@
 ' ##################################
 
 !define COMPONENT_BG_COLOR #85BBF0
-!define COMPONENT_NEW_BG_COLOR #43D56C
-!define COMPONENT_CHG_BG_COLOR #FCBA03
+!define COMPONENT_NEW_BG_COLOR #85F093
+!define COMPONENT_CHG_BG_COLOR #F0DE85
 
 ' Styling
 ' ##################################
