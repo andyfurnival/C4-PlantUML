@@ -10,7 +10,7 @@
 ' Colors
 ' ##################################
 
-!define CONTAINER_CHG_BG_COLOR #438DD5
+!define CONTAINER_CHG_BG_COLOR #43D56C
 !define CONTAINER_NEW_BG_COLOR #438DD5
 
 ' Styling
