@@ -66,8 +66,8 @@ legend right
 |<SYSTEM_BG_COLOR>   | system |
 |<EXTERNAL_SYSTEM_BG_COLOR>      | external system |
 |<CONTAINER_BG_COLOR>   | container |
-|<CONTAINER_NEW_BG_COLOR>   | container_new |
-|<CONTAINER_CHG_BG_COLOR>   | container_chg |
+|<CONTAINER_NEW_BG_COLOR>   | new container |
+|<CONTAINER_CHG_BG_COLOR>   | changing container |
 endlegend
 !enddefinelong
 
